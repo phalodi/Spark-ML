@@ -23,4 +23,4 @@ This Project Contains Example of 2 Machine Learning Algorithms.
       The output will be percentage of Possiblity.
       
 
-# We are using Scala version `2.11.7` and Apache Spark version `1.6.0`.
+# We are using Scala version `2.11.8` and Apache Spark version `1.6.0`.
